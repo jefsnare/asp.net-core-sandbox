@@ -1,5 +1,5 @@
---temp-output:D:\Sandbox\asp.net-core-sandbox\src\Sandbox\obj\Debug\netcoreapp1.0\
---out:D:\Sandbox\asp.net-core-sandbox\src\Sandbox\bin\Debug\netcoreapp1.0\Sandbox.dll
+--temp-output:D:\Sandbox\asp.net-core-sandbox\src\Sandbox\bin\src\Sandbox\obj\Debug\netcoreapp1.0\
+--out:D:\Sandbox\asp.net-core-sandbox\src\Sandbox\bin\src\Sandbox\bin\Debug\netcoreapp1.0\Sandbox.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -229,7 +229,7 @@
 --reference:C:\Users\jeffrey\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\jeffrey\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\jeffrey\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"D:\Sandbox\asp.net-core-sandbox\src\Sandbox\obj\Debug\netcoreapp1.0\Sandboxdotnet-compile.deps.json",Sandbox.deps.json
+--resource:"D:\Sandbox\asp.net-core-sandbox\src\Sandbox\bin\src\Sandbox\obj\Debug\netcoreapp1.0\Sandboxdotnet-compile.deps.json",Sandbox.deps.json
 D:\Sandbox\asp.net-core-sandbox\src\Sandbox\Program.cs
 D:\Sandbox\asp.net-core-sandbox\src\Sandbox\Startup.cs
 D:\Sandbox\asp.net-core-sandbox\src\Sandbox\Controllers\AccountController.cs
